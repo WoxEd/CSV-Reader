@@ -1,0 +1,1 @@
+[1,BY,2020-03-21,0,0,Bélarus,Belarus],[2,EL,2020-07-20,24,0,Grèce,Greece],[3,IN,2020-04-28,1543,62,Inde,India],[4,MA,2020-07-09,442,7,Maroc,Morocco],[5,PF,2020-03-29,4,0,Polynésie française,French Polynesia],[6,SY,2020-07-20,0,0,Syrie,Syria],
